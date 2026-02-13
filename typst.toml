@@ -1,0 +1,11 @@
+[package]
+name = "bourbakit"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Simon Buré"]
+license = "MIT"
+description = "Initialize and configure everything you need for mathematical typesetting documents."
+repository = "https://github.com/SimonBure/bourbakit"
+keywords = []
+categories = []
+compiler = "0.14.2"
